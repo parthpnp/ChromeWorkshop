@@ -6,6 +6,7 @@
   "chrome_url_overrides": {
     "newtab": "templates/index.html"
   },
+Ravi Goswami
   "icons": {
     "16": "static/img/16icon.png",
     "48": "static/img/48icon.png",
