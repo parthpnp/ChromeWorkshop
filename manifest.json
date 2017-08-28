@@ -1,7 +1,7 @@
 {
-  "name": "ToDo Task",
+  "name": "Task for 1st Workshop",
   "description": "Be Well Managed. Your Personal Task Management Tool with Always changing Clasic wallpapers and Material UI/UX Design.",
-  "version": "1.1",
+  "version": "1",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "templates/index.html"
