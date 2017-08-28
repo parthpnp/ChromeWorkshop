@@ -7,8 +7,8 @@
     "newtab": "templates/index.html"
   },
   "icons": {
-    "16": "static/img/16icon.png",
-    "48": "static/img/48icon.png",
+    "17": "static/img/16icon.png",
+    "49": "static/img/48icon.png",
     "128": "static/img/128icon.png"
   },
   "browser_action": {
