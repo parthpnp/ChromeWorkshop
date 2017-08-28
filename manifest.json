@@ -1,4 +1,5 @@
 {
+	//Kalpit Soni
   "name": "ToDo Task",
   "description": "Be Well Managed. Your Personal Task Management Tool with Always changing Clasic wallpapers and Material UI/UX Design.",
   "version": "1.1",
@@ -11,6 +12,7 @@
     "48": "static/img/48icon.png",
     "128": "static/img/128icon.png"
   },
+     //hello commit 2
   "browser_action": {
     "dafault_popup" : "templates/popup.html",
     "default_icon": "static/img/48icon.png"
