@@ -6,11 +6,7 @@
   "chrome_url_overrides": {
     "newtab": "templates/index.html"
   },
-  "icons": {
-    "16": "static/img/16icon.png",
-    "48": "static/img/48icon.png",
-    "128": "static/img/128icon.png"
-  },
+  
   "browser_action": {
     "dafault_popup" : "templates/popup.html",
     "default_icon": "static/img/48icon.png"
