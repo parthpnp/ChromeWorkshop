@@ -11,6 +11,7 @@
     "48": "static/img/48icon.png",
     "128": "static/img/128icon.png"
   },
+  	"This is Damm Good!!!!!!"
   "browser_action": {
     "dafault_popup" : "templates/popup.html",
     "default_icon": "static/img/48icon.png"
