@@ -11,11 +11,7 @@
     "48": "static/img/48icon.png",
     "128": "static/img/128icon.png"
   },
-  "browser_action": {
-    "dafault_popup" : "templates/popup.html",
-    "default_icon": "static/img/48icon.png"
-  },
-  "manifest_version": 2,
+    "manifest_version": 2,
   "permissions": [
     "storage",
     "activeTab",
